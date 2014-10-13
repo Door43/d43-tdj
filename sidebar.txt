@@ -10,6 +10,10 @@
 
   * [[tdj:obs|Open Bible Stories (tdj)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tdj|d43-tdj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tdj/archive/master.zip|d43-tdj.zip]]
+
 **Recent Changes**
 {{changes>ns = tdj}}
 
