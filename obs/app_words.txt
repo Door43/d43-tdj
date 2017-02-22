@@ -1,31 +1,31 @@
 //Translation for the unfoldingWord mobile app interface // 
 
 
-Select a language: Select a Language
+Select a language: Momile Tebasa
 
 
-Chapters: Chapters
+Chapters: Tepasal-pasal
 
 
-Languages: Languages
+Languages: Tebasa-basa
 
 
-Next chapter: Next Chapter
+Next chapter: Tepasal ancunaꞌonya
 
 
 OK: OK
 
 
-Cancel: Cancel
+Cancel: Jio majari
 
 
-Save locally: Save Locally
+Save locally: Mongembe eilalong tealat
 
 
-Save this string: Save this language locally for offline use.
+Save this string: Mongembe tebasa eini eilalong tealat antau nopake jio online.
 
 
-Remove locally: Remove Locally
+Remove locally: Monggagis lamai tealat
 
 
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Remove this string: Monggagis tebasa eini lamai tealat.  Ane siꞌoo seilu meꞌita, siꞌoo kanaboi umai teꞌinternet.
